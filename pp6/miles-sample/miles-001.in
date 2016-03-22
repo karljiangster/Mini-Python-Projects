@@ -1,0 +1,17 @@
+3 9 4 1.0 2.0
+chicago
+detroit
+omaha
+chicago detroit 1.5 3.0
+chicago detroit 2.75 4.25
+chicago detroit 5.0 6.0
+detroit omaha 2.0 3.0
+detroit omaha 3.0 4.0
+detroit omaha 4.0 5.0
+omaha chicago 1.5 4.5
+omaha chicago 6.0 9.0
+omaha chicago 6.5 9.5
+chicago
+detroit
+omaha
+chicago

@@ -1,0 +1,36 @@
+4 26 5 1.0 2.0
+chicago
+detroit
+omaha
+pittsburgh
+chicago pittsburgh 2.5 3.5
+chicago omaha 1.0 2.0
+chicago omaha 3.0 4.0
+chicago detroit 1.5 3.0
+chicago detroit 2.75 4.25
+chicago detroit 5.0 6.0
+detroit pittsburgh 2.5 3.5
+detroit pittsburgh 5.0 6.0
+detroit omaha 2.0 3.0
+detroit omaha 3.0 4.0
+detroit omaha 4.0 5.0
+detroit chicago 1.0 2.0
+detroit chicago 3.0 4.0
+omaha pittsburgh 1.5 4.5
+omaha pittsburgh 6.0 9.0
+omaha pittsburgh 6.5 9.5
+omaha detroit 5.5 7.5
+omaha detroit 8.0 9.0
+omaha chicago 1.0 2.0
+omaha chicago 3.0 4.0
+pittsburgh omaha 2.0 3.0
+pittsburgh omaha 3.0 4.0
+pittsburgh detroit 1.5 2.5
+pittsburgh detroit 4.0 5.0
+pittsburgh chicago 10.5 11.5
+pittsburgh chicago 11.25 12.75
+chicago
+detroit
+omaha
+pittsburgh
+chicago

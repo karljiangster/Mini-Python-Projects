@@ -1,0 +1,11 @@
+Apple .89
+Banana .39
+Bread 2.50
+Chocolate 1.50
+Coffee 4.00
+Lettuce 1.19
+Milk 3.00
+Onion .39
+Orange .69
+Rice_1_pound 1.39
+Rice_5_pound 3.00
